@@ -3,7 +3,7 @@
 **IBM SkillsBuild Data Analytics with AI Academic Internship — Capstone Project**  
 **Author:** Sakshi Wadodkar  
 **Dataset:** Official Tableau Sample Superstore  
-**Year:** 2025
+**Year:** 2026
 
 ---
 
